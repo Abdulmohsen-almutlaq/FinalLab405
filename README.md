@@ -9,7 +9,7 @@ React + PHP + PostgreSQL app.
 
 ##  Demo
 
-[Video Demo]([https://youtu.be/YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=UkkaJjSIh8Y))
+[Video Demo](https://www.youtube.com/watch?v=UkkaJjSIh8Y)
 
 ##  Features
 
