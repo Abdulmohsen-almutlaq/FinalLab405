@@ -14,7 +14,7 @@ React + PHP + PostgreSQL app.
 
 ##  Features
 
-- CRUD API 
+- CRUD API  PHP
 - React UI
 
 ##  Setup
