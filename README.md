@@ -8,14 +8,7 @@ Web app to store and manage bookmarks.
 React + PHP + PostgreSQL app.
 
 ##  Demo
-
-<iframe width="560" height="315"
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
+[Video Demo](https://youtu.be/UkkaJjSIh8Y)
 
 Live Demo: https://www.youtube.com/watch?v=UkkaJjSIh8Y
 
