@@ -1,0 +1,74 @@
+.delete-bookmarks-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.delete-bookmarks-title {
+  color: #333;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 10px;
+}
+
+.delete-bookmarks-list {
+  list-style: none;
+  padding: 0;
+}
+
+.delete-bookmark-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 15px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+.delete-bookmark-content {
+  flex: 1;
+}
+
+.delete-bookmark-title {
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+  font-size: 1.2rem;
+}
+
+.delete-bookmark-url {
+  margin: 0;
+  color: #7f8c8d;
+  font-size: 0.8rem;
+  word-break: break-all;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 15px;
+}
+
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.delete-button:active {
+  transform: translateY(1px);
+}
+
+.no-bookmarks-message {
+  text-align: center;
+  color: #7f8c8d;
+  font-style: italic;
+  padding: 20px;
+}
