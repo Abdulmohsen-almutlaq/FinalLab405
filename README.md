@@ -9,7 +9,11 @@ React + PHP + PostgreSQL app.
 
 ##  Demo
 
-[Video Demo](https://www.youtube.com/watch?v=UkkaJjSIh8Y)
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UkkaJjSIh8Y" title="Bookmark Manager Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Live Demo: https://www.youtube.com/watch?v=UkkaJjSIh8Y
 
 ##  Features
 
