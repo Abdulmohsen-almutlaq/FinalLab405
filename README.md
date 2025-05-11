@@ -8,9 +8,9 @@ Web app to store and manage bookmarks.
 React + PHP + PostgreSQL app.
 
 ##  Demo
-[Video Demo](https://youtu.be/UkkaJjSIh8Y)
+[![Watch the video]()](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
 
-Live Demo: https://www.youtube.com/watch?v=UkkaJjSIh8Y
+
 
 ##  Features
 
