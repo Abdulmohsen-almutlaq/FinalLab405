@@ -9,9 +9,13 @@ React + PHP + PostgreSQL app.
 
 ##  Demo
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UkkaJjSIh8Y" title="Bookmark Manager Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
 Live Demo: https://www.youtube.com/watch?v=UkkaJjSIh8Y
 
